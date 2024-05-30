@@ -58,7 +58,7 @@
   </a>
   <a href="https://github.com/rit3zh/Vibe"
    target="_blank">
-    <img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea1a_kofi_short_button_dark%402x.png" alt="Build Status" width="120" height="37" style="position: relative; top: 2px; margin-left: 8; border-radius:5px" >
+    <img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea1a_kofi_short_button_dark%402x.png" alt="Build Status" width="120" height="37" style="position: relative; top: 10px;" >
 </a>
   </a>
 
