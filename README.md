@@ -1,5 +1,3 @@
-
-
   <p align=center>
   <a href="https://app.daily.dev/rit3zh"><img src="https://api.daily.dev/devcards/v2/aAO5jH5tHPBxERaYhfe9R.png?type=wide&r=20x" width="652" alt="Ritesh's Dev Card"/>
   </a>
@@ -8,28 +6,28 @@
   <a href="https://dev.to/myno_db0ad2aa9070dac91bfd" target="blank"><img align="center" src="https://i.ibb.co/LpXrBWH/trademarkresize-1.png" alt="myno_db0ad2aa9070dac91bfd"  width=140/>
   </p>
     <p align="center">
-    <a href="https://github.com/rit3zh/Vibe" target="_blank">
+    <a href="https://github.com/rit3zh" target="_blank">
       <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
     </a>
   <p align="center">
-  <a href="https://github.com/rit3zh/Vibe" target="_blank">
+  <a href="https://github.com/rit3zh" target="_blank">
       <img src="https://img.shields.io/badge/React_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="Build Status">
     </a>
-    <a href="https://github.com/rit3zh/Vibe" target="_blank">
+    <a href="https://github.com/rit3zh" target="_blank">
       <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="Build Status">
     </a>
-    <a href="https://github.com/rit3zh/Vibe" target="_blank">
+    <a href="https://github.com/rit3zh" target="_blank">
       <img src="https://img.shields.io/badge/React-%23007ACC.svg?style=flat&logo=react&logoColor=white" alt="Codecov" />
     </a>
-    <a href="https://github.com/rit3zh/Vibe" target="_blank">
+    <a href="https://github.com/rit3zh" target="_blank">
       <img src="https://img.shields.io/badge/Rust-%23007ACC.svg?style=flat&logo=rust&logoColor=white&color=red" alt="License">
     </a>
-    <a href="https://github.com/rit3zh/Vibe" target="_blank">
+    <a href="https://github.com/rit3zh" target="_blank">
       <img src="https://img.shields.io/badge/Swift-%23007ACC.svg?style=flat&logo=swift&logoColor=white&color=orange" alt="License">
     </a>  
   </p>
   <p align=center>
-      <a href="https://github.com/rit3zh/Vibe" target="_blank">
+      <a href="https://github.com/rit3zh" target="_blank">
       <img src="https://visitcount.itsvg.in/api?id=rit3zh&icon=7&color=5" alt="License">
     </a>
   </p>
@@ -45,32 +43,32 @@
 
   <h1></h1>
   <p align=center>
-    <a href="https://github.com/rit3zh/Vibe" target="_blank">
+    <a href="https://github.com/rit3zh" target="_blank">
       <img src="https://i.ibb.co/CWvK3zS/beauti-quoteresize-1.png" alt="Build Status"  >
     </a>
   </p>
   <h1></h1>
   <p align=center>
-  <a href="https://github.com/rit3zh/Vibe" target="_blank">
+  <a href="https://github.com/rit3zh" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rit3zh&theme=dark&hide_border=false" alt="Build Status">
     </a>
 
-  ## Donations
+## Donations
 
-  ##### Ever liked my work? Please support me through these payment methods. I really appreciate each single donation.
+##### Ever liked my work? Please support me through these payment methods. I really appreciate each single donation.
 
   <p>
-  <a href="https://github.com/rit3zh/Vibe" target="_blank">
+  <a href="http://buymeacoffee.com/rit3zh" target="_blank">
       <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Build Status" width=150>
     </a>
-    <a href="https://github.com/rit3zh/Vibe"
+    <a href="https://ko-fi.com/rit3zh"
     target="_blank">
       <img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea1a_kofi_short_button_dark%402x.png" alt="Build Status" width="120" height="37" " >
   </a>
     </a>
 
-  <a href="https://discord.gg/755101874268536893" target="blank"><img align="center" src="https://trinity-baptist.com/wp-content/uploads/2021/02/cashapp-button-trinity-2.png" alt="755101874268536893" width=150 /></a>
-  <a href="https://discord.gg/755101874268536893" target="blank"><img align="center" src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="755101874268536893" width=150 /></a>
+<a href="https://cash.app/$riteshxf" target="blank"><img align="center" src="https://trinity-baptist.com/wp-content/uploads/2021/02/cashapp-button-trinity-2.png" alt="755101874268536893" width=150 /></a>
+<a href="https://www.paypal.com/paypalme/RiteshFNU" target="blank"><img align="center" src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" alt="755101874268536893" width=150 /></a>
 
   <h2 align="left">Connect with me:</h3>
   <p align="left">
@@ -78,6 +76,3 @@
   <a href="https://discord.gg/755101874268536893" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flate&logo=discord&logoColor=white" alt="755101874268536893" /></a>
   <a href="https://discord.gg/755101874268536893" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="755101874268536893" /></a>
   </p>
-
-
-
