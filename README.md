@@ -1,10 +1,10 @@
 <p align=center>
 <a href="https://app.daily.dev/rit3zh"><img src="https://api.daily.dev/devcards/v2/aAO5jH5tHPBxERaYhfe9R.png?type=wide&r=20x" width="652" alt="Ritesh's Dev Card"/>
 </a>
+<p align="center">
 <a href="https://github.com/rit3zh/Vibe" target="_blank">
     <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
   </a>
-<p align="center">
 </p>
   <p align="center">
 <p align="center">
