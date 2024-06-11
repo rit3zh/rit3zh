@@ -73,6 +73,6 @@
   <h2 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://dev.to/myno_db0ad2aa9070dac91bfd" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="myno_db0ad2aa9070dac91bfd"  /></a>
-  <a href="https://discord.gg/755101874268536893" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flate&logo=discord&logoColor=white" alt="755101874268536893" /></a>
-  <a href="https://discord.gg/755101874268536893" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="755101874268536893" /></a>
+  <a href="https://discord.gg/users/755101874268536893" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flate&logo=discord&logoColor=white" alt="755101874268536893" /></a>
+  <a href="https://discord.gg/users/755101874268536893" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="755101874268536893" /></a>
   </p>
