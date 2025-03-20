@@ -1,5 +1,5 @@
   <p align=center>
-  <a href="https://app.daily.dev/rit3zh"><img src="https://api.daily.dev/devcards/v2/aAO5jH5tHPBxERaYhfe9R.png?type=wide&r=20x" width="652" alt="Ritesh's Dev Card"/>
+  <a href="https://app.daily.dev/rit3zh"><img src="https://i.ibb.co/XNwBRrd/IMG-3066.jpg" width="652" alt="Ritesh's Dev Card"/>
   </a>
 
   <p align=center>
