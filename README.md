@@ -1,4 +1,4 @@
-![bannerprofile_10000](https://github.com/user-attachments/assets/739e1d3d-001a-49f4-9644-f61d70688ed6)
+![bannerprofile_10000](https://github.com/user-attachments/assets/540dcaed-ce5a-4869-9325-1c4c741e1ecf)
 
 # Howdy, I’m Ritesh 👋
 
