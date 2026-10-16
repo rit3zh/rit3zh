@@ -1,6 +1,6 @@
 # 👋 Hello
 
-⎯ ✧ I build [🦋](https://en.bab.la/dictionary/english/beautiful) things with **React Native**.
+⎯ ✧ I build [🦋](https://en.bab.la/dictionary/english/beautiful) thing.
 
 ## [Sponsor me](https://github.com/sponsors/rit3zh)
 
