@@ -1,6 +1,6 @@
 # 👋 Hello
 
-⎯ ✧ I build [🦋](https://en.bab.la/dictionary/english/beautiful) thing.
+⎯ ✧ I build [🦋](https://en.bab.la/dictionary/english/beautiful) things.
 
 ## [Sponsor me](https://github.com/sponsors/rit3zh)
 
