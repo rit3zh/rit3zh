@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="banner-rit3zh" src="https://github.com/user-attachments/assets/58cca746-4331-4dce-a75b-563e8235e893" />
+
 # 👋 Hello
 
 ⎯ ✧ I build [🦋](https://en.bab.la/dictionary/english/beautiful) things.
